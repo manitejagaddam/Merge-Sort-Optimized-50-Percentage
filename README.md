@@ -71,6 +71,12 @@ All times are measured in **seconds** on the same hardware and under identical c
 | 100,000,000| 13.3938     | 102.46            | 52.122               | 69.0183                     |
 
 ---
+![WhatsApp Image 2025-06-15 at 00 43 21_ce481aed](https://github.com/user-attachments/assets/62e37431-a2b5-4b4a-aec7-e3212ec9f2d1)
+
+
+## 👁️ Visual Representation
+![merge_sort_performance](https://github.com/user-attachments/assets/5389ff6b-f96f-494f-99bf-9fa63228fc75)
+
 
 ## 🧠 Key Insights
 
